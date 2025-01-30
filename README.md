@@ -6,7 +6,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sametince0?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sametince0?style=social)
-![GitHub contributions](https://img.shields.io/github/contributors/sametince0?style=plastic)
 
 > 👋 **Merhaba, ben Samet İnce!**
 >
@@ -36,8 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sametince0&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametince0&theme=dark" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametince0&layout=compact&theme=dark" alt="Top Languages" />
 </p>
