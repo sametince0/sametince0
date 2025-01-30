@@ -1,14 +1,14 @@
 # 🏆 Profilim
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=👀+Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Profil Ziyaretleri" />
+  <img src="https://komarev.com/ghpvc/?username=sametince0&label=👀+Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Profil Ziyaretleri" />
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-![GitHub contributions](https://img.shields.io/github/contributors/yourusername?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/sametince0?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sametince0?style=social)
+![GitHub contributions](https://img.shields.io/github/contributors/sametince0?style=plastic)
 
-> 👋 **Merhaba, ben [Adınız]!**
+> 👋 **Merhaba, ben Samet İnce!**
 >
 > 🚀 Yenilikçi çözümler geliştiren, yazılım dünyasında kendini sürekli geliştiren bir profesyonelim. İlgi alanlarım, projelerim ve katkılarım hakkında daha fazla bilgi edinmek için okumaya devam edin.
 
@@ -16,11 +16,11 @@
 
 ## 🚀 Hakkımda
 
-- 💼 **Çalıştığım Alan:** [Alanınızı buraya yazın]  
-- 🌱 **Şu an öğreniyorum:** [Öğrendiğiniz teknolojiler veya konular]  
-- 👯 **İşbirliklerine açığım:** [Ne tür projelerde işbirliği yapabileceğinizi belirtin]  
-- 💬 **Bana sorabilirsiniz:** [Uzmanlık alanlarınız hakkında]  
-- 📫 **İletişim:** [E-posta veya sosyal medya hesaplarınız]
+- 💼 **Çalıştığım Alan:** Full Stack Developer - APP Developer  
+- 🌱 **Şu an öğreniyorum:** Robotik Kodlama ve Yapay Zeka  
+- 👯 **İşbirliklerine açığım:** Kurumsal Kimlik ve Web Tasarım  
+- 💬 **Bana sorabilirsiniz:** Uygulama Geliştirme ve Web Yazılımları
+- 📫 **İletişim:** abdulsametince4034@gmail.com
 
 ---
 
@@ -28,18 +28,18 @@
 
 | 🚀 **Frontend** | 🏗 **Backend** | 🗄 **Database** | 🛠 **Araçlar** |
 |---------------|----------------|----------------|--------------|
-| React, Vue, Angular | Node.js, Express, Django | MongoDB, PostgreSQL, MySQL | Git, Docker, VS Code, Postman |
+| React, Vue, Angular | PHP, Node.js, Express, Django | MongoDB, PostgreSQL, MySQL | Git, Docker, VS Code, Postman |
 
 ---
 
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sametince0&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametince0&theme=dark" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametince0&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
