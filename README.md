@@ -53,9 +53,9 @@
 
 ## 💡 Sosyal Medya & İletişim
 
-📧 **E-posta:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
+📧 **E-posta:** [abdulsametince4034@gmail.com](mailto:abdulsametince4034@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/abdulsametince](https://linkedin.com/in/abdulsametince)  
+🐦 **Instagram:** [@sametince.34](https://twitter.com/sametince.34)
 
 ---
 
